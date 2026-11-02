@@ -1,6 +1,6 @@
 # Panduan publikasi GitHub dan Zenodo
 
-Paket ini disiapkan secara lokal. Repositori publik dan DOI belum dibuat. Nama yang disarankan: `jjkk-label-efficient-calibration`. File kode memakai lisensi MIT; pastikan pilihan ini sesuai kesepakatan para penulis sebelum dipublikasikan.
+Repositori publik sudah tersedia di https://github.com/haryoko-beep/jjkk-label-efficient-calibration. Release v1.0.0 telah diarsipkan pada https://doi.org/10.5281/zenodo.23880279. Langkah di bawah dipertahankan sebagai panduan pengelolaan versi berikutnya. Nama yang disarankan: `jjkk-label-efficient-calibration`. File kode memakai lisensi MIT; pastikan pilihan ini sesuai kesepakatan para penulis sebelum dipublikasikan.
 
 ## 1 Periksa paket
 

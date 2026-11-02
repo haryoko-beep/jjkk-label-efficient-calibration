@@ -2,6 +2,10 @@
 
 Public repository: https://github.com/haryoko-beep/jjkk-label-efficient-calibration
 
+Archived version 1.0.0: https://doi.org/10.5281/zenodo.23880279
+
+The immutable release contains the experiment code and evidence. Subsequent main-branch changes add citation and publication metadata; use the archived version to reproduce the manuscript.
+
 Research code and aggregate evidence supporting **Limits of Label Efficient Calibration in Cross Dataset IoT Intrusion Detection** by Haryoko, Windha Mega Pradnya Dhuhita, Agus Purwanto, Nuraini, Ikmah, and Lukman.
 
 The experiments investigate when a frozen intrusion detector can be adapted using a limited target-label budget. They compare acquisition policies, inverse-inclusion weighting, budget-accounted thresholds, and retraining. The original 100-label calibrators produce near-unit false-positive rates. Mixed retraining reaches the joint criterion on the evaluated common-feature CIC subset but does not do so consistently on the expanded IoT-23 cohort. The code preserves these negative findings.
@@ -40,4 +44,4 @@ Historical target-test reuse is exploratory, not prospective deployment validati
 
 ## Citation and licensing
 
-Author metadata is in `CITATION.cff`. Add the public repository URL and version DOI after publication. The MIT license covers the supplied code and documentation. Dataset access and reuse remain governed by their providers; aggregate evidence is supplied as a research record and does not transfer rights to underlying datasets.
+Author metadata is in `CITATION.cff`. The public repository URL and version DOI are recorded in the citation metadata. The MIT license covers the supplied code and documentation. Dataset access and reuse remain governed by their providers; aggregate evidence is supplied as a research record and does not transfer rights to underlying datasets.

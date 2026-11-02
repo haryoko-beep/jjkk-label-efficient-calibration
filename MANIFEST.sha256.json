@@ -1,11 +1,11 @@
 {
   ".gitignore": "11947930787620aabf50f3c1505809700411829373dab7ad06ade1d01ea26db7",
-  "CITATION.cff": "9a1c877066b8f14f9f4bec17302ec88645246376df65ca792e8a7cb844ff18cc",
+  "CITATION.cff": "746cc3e58ab392d27feba8cd80198b9b011503431fd5325dbfb9226b4802ec7f",
   "data/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "data/official_manifest.json": "3713d1c133f4798e192f7fdcb13e02def05ef716e26d174f4a0676f42d7d8127",
   "docs/cic_identity.example.json": "d938ddcdf27c7b421d88f4854b43e7a4a23e9df9b6a6818ad51e527dbcfcecb1",
   "docs/DATA_AVAILABILITY_TEMPLATE.md": "bb39b844784022ab07c6205883540b228e13ed75dc333dab4a7e11cb1acbd4b9",
-  "docs/PANDUAN_PUBLIKASI.md": "d0cb65464e73ea647cb1571190ec8b6dd255a08e8200a96c5f829c55dbcdf80e",
+  "docs/PANDUAN_PUBLIKASI.md": "b0615159cd5574222d379c0b57eee92249b30c91d2097bc0d9a216b6773b57e6",
   "docs/REPRODUCING.md": "972466e0754de95137a9fee8540449b249e711d4c2eeba7d0b6c35a2007c7854",
   "evidence/logs/common_training.jsonl": "5b2b9d695322ab7d728c03e3214f0a3960eb19d47a8eb9279500e75bf23ad104",
   "evidence/logs/conflict_sensitivity.jsonl": "d8a5a42162d5c5f39587bac7c7c0e0d5100eb054465cdd8edb81d24024ecdafd",
@@ -100,7 +100,7 @@
   "FULL_STUDY_PROTOCOL.md": "15e6524569006bc95bf8cd30020ffbe518e2c5bd97e1589ea0513defd9386d0b",
   "LICENSE": "1103b3ad325e434546c69200c9a24220258db69efb8acfbeaaeebdb4bbb02b13",
   "logs/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "README.md": "370059228d8a13f3a22a5b4c39eeaf84f5e119bc57b9e9cdd4dd496389e0fb1f",
+  "README.md": "f21e773d1536f00520ddfb7877f3dcf17f95204d23dae2945bee8042d2684103",
   "requirements.txt": "cbf51ea84b608313740f771e528ca529b5571e024bf6ab77b811873608e57cc0",
   "results/full/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "results/revision/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -132,5 +132,6 @@
   "tmp/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "TUNING_PROTOCOL.md": "ef59f8c19db6de5c33af333f6dbc2ca180dae6220ba2cd8612bcc274011492a2",
   ".gitattributes": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
-  ".zenodo.json": "86882b9842e3619d0d072afc8dda2ee6045db2a48c48642b180dff415624e097"
+  ".zenodo.json": "ed210a52f102dfce34d41dde803deedbe560b4747b08128e1f3ef234e05762a5",
+  "docs/DATA_AVAILABILITY_FINAL.md": "d396362dad8063261c71c7c47a2f680e68a3471ccb8eb46eaf3e27fa2f8eb878"
 }
