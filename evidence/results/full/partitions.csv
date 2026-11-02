@@ -1,0 +1,5 @@
+partition,n,benign,attack,files,families
+source_train,221026,3000,218026,239,34
+source_holdout,62047,1000,61047,70,19
+target_pool,50715,1000,49715,51,51
+complete_target_test,1612109,37607,1574502,21,19

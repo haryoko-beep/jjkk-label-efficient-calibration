@@ -1,0 +1,17 @@
+# Distributed CSV representation audit
+
+The complete official source archive contains 309 CSV files and 39 numeric columns per the inspected source header. Target attack CSVs have 45 numeric columns in the inspected target header. The common intersection is 38 columns; exact set is exported in results/full/features.json after preprocessing.
+
+Source Time_To_Live is not mapped to target Duration. Target-only Srate, Drate, Magnitue (provider spelling), Radius, Covariance, and Weight are excluded. Timestamp and file/family identifiers are never predictors. Binary labels are derived from the official benign/attack file placement because the original per-capture source CSVs do not contain the merged distribution's Label field. This differs from many studies that use the 169 merged shuffled files.
+
+The downloaded official pcap2csv.zip contains Feature_extraction.py, Connectivity_features.py, Layered_features.py, Dynamic_features.py, Communication_features.py, Generating_dataset.py, and Supporting_functions.py. Copies are retained read-only under sources/extraction_code. Source code explicitly writes Time_To_Live from packet TTL. Its final summarization uses n_rows = 10; Rate is packet count divided by the timestamp span; several count fields are summed, packet length statistics recomputed, and remaining numeric values averaged. Header_Length, protocol indicators, flag variables, packet-length statistics, IAT, Number and Variance are shared at the header level.
+
+The source CSV README distinguishes original per-capture CSV from merged/shuffled files, and contains historical references to both 169 and 309 files. The actual downloaded archive and inventory take precedence for counts.
+
+Target documentation is provided partly as rendered image pages and describes packet aggregation features, but the official target download does not include a version-identical extraction implementation that can be matched function by function against the source release. Header-level overlap and shared authorship are therefore insufficient to certify identical aggregation semantics. Features such as IAT, Number, Rate and aggregate counts may carry representation shift as well as network-environment shift.
+
+The manuscript must characterize the experiment as transfer between the distributed CSV representations. It must not attribute degradation solely to medical-device behavior, claim universal feature interoperability, or imply that this study re-extracted both datasets under a single pipeline. A fully measurement-controlled study would need common PCAP re-extraction, which is a different data scope from the completed tabular study and is not claimed here.
+
+Observed on the completed capped-domain cohorts: median Number is 100.0 in the source and 9.5 in the target training pool; median IAT is approximately 0.0001243782 and 84,696,016.9041, respectively. The reviewed source code's n_rows=10 setting does not, on its own, explain a released-source median Number of 100. The version/configuration that generated every distributed CSV therefore cannot be certified solely from the supplied extraction archive. This is a concrete release-consistency concern, not proof of a particular coding error or a unit conversion that the study has established. No silent rescaling is introduced after seeing target-test outcomes.
+
+No model or feature subset is selected by inspecting target-test outcomes. Feature intersection is frozen before the full experiment; the supplementary audit informs interpretation rather than post-hoc optimization.

@@ -1,0 +1,10 @@
+budget,mode,benign_mean,benign_min,upper95_mean
+100,native_05,0.6,0,0.9988888888888889
+100,target_validation_01,0.6,0,0.97
+100,target_validation_05,0.6,0,0.97
+250,native_05,3.2,2,0.9658353231819748
+250,target_validation_01,3.2,2,0.6418035747538094
+250,target_validation_05,3.2,2,0.6418035747538094
+1000,native_05,8.8,6,0.8451912249428466
+1000,target_validation_01,8.8,6,0.30133424517589646
+1000,target_validation_05,8.8,6,0.30133424517589646

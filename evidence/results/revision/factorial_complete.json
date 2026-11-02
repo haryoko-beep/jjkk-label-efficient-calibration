@@ -1,0 +1,8 @@
+{
+  "source_models": 12,
+  "factorial_fits": 144,
+  "evaluation_rows": 312,
+  "coverage_fits": 120,
+  "feature_controls": 6,
+  "test_status": "reused_exploratory"
+}

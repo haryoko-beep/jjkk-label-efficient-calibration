@@ -1,0 +1,12 @@
+{
+  "evaluations": 366,
+  "frozen_rules": 122,
+  "new_training_fits": 0,
+  "new_captures_acquired": 4,
+  "new_eligible_captures": 2,
+  "expanded_attack_bearing_captures": 2,
+  "old_windows": 1493,
+  "new_windows": 1169,
+  "expanded_windows": 2662,
+  "protocol_sha256": "550018112d4d56d4e9c9007cfbdf986993bc330e1400c359697560a45e3e8a18"
+}

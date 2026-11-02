@@ -1,0 +1,23 @@
+{
+  "domain": "IoT23",
+  "relative_path": "CTU-IoT-Malware-Capture-42-1/2019-01-10-14-34-38-192.168.1.197.pcap",
+  "url": "https://mcfp.felk.cvut.cz/publicDatasets/IoT-23-Dataset/IndividualScenarios/CTU-IoT-Malware-Capture-42-1/2019-01-10-14-34-38-192.168.1.197.pcap",
+  "partition": "new_external",
+  "scenario_label": null,
+  "local_path": "data/pcap_revision/IoT23/2019-01-10-14-34-38-192.168.1.197.pcap",
+  "packets": 24484,
+  "reached_eof": false,
+  "source_eof_reached": true,
+  "termination": "truncated_terminal_packet",
+  "source_http_bytes": 2908160,
+  "source_http_sha256": "7573797f17aae96e3804a3cfb22d531b74c17bbae740de1e14048f89130fba37",
+  "discarded_terminal_bytes": 61,
+  "linktype": 1,
+  "timestamp_divisor": 1000000.0,
+  "bytes": 2908099,
+  "sha256_prefix": "ad1624d71606a0727974488b989871b4f4636ea24628762f57696abd80ae2bf5",
+  "capture_name": "CTU-IoT-Malware-Capture-42-1",
+  "label_file": "data/pcap_revision/IoT23/CTU-IoT-Malware-Capture-42-1/conn.log.labeled",
+  "label_sha256": "269fa1b22d9a37e159cf41b81a213a0032d21306f5d39b4c20cb0d211b04e8aa",
+  "protocol_sha256": "550018112d4d56d4e9c9007cfbdf986993bc330e1400c359697560a45e3e8a18"
+}

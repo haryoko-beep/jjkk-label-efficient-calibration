@@ -1,0 +1,8 @@
+{
+  "evaluations": 366,
+  "source_models": 2,
+  "calibration_fits": 20,
+  "retraining_fits": 40,
+  "extractor_sha256": "95b748018ccb6de3898732d908b538fe89ae61531397ef93dc0db1272f2b7112",
+  "external_status": "new external subset; fixed pipeline; capture-dependent; no deployment guarantee"
+}

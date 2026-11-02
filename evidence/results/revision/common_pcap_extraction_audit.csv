@@ -1,0 +1,21 @@
+domain,capture,partition,packets,valid_packets,incomplete_window_packets,windows_eligible,windows_benign,windows_attack,excluded_low_label_coverage,excluded_mixed_labels,connection_labels,bad_connection_rows,complete_capture
+CICIoT2023,BenignTraffic1,train,100000,99370,70,993,993,0,0,0,{},0,False
+CICIoT2023,BenignTraffic,train,100000,98891,91,988,988,0,0,0,{},0,False
+CICIoT2023,BenignTraffic2,source_holdout,100000,99333,33,993,993,0,0,0,{},0,False
+CICIoT2023,BenignTraffic3,source_holdout,100000,99369,69,993,993,0,0,0,{},0,False
+CICIoT2023,Recon-PortScan,train,100000,99362,62,993,0,993,0,0,{},0,False
+CICIoT2023,DoS-SYN_Flood,train,100000,99994,94,999,0,999,0,0,{},0,False
+CICIoT2023,DoS-SYN_Flood1,train,100000,99994,94,999,0,999,0,0,{},0,False
+CICIoMT2024,Benign_train,train,100000,99981,81,999,999,0,0,0,{},0,False
+CICIoT2023,DoS-SYN_Flood2,source_holdout,100000,99994,94,999,0,999,0,0,{},0,False
+CICIoMT2024,Recon-Port_Scan_train,train,100000,100000,0,1000,0,1000,0,0,{},0,False
+CICIoMT2024,TCP_IP-DoS-SYN1_train,train,100000,100000,0,1000,0,1000,0,0,{},0,False
+CICIoMT2024,Recon-Port_Scan_test,test,100000,100000,0,1000,0,1000,0,0,{},0,False
+CICIoMT2024,TCP_IP-DoS-SYN_test,test,100000,100000,0,1000,0,1000,0,0,{},0,False
+CICIoMT2024,Benign_test,test,100000,99984,84,999,999,0,0,0,{},0,False
+IoT23,CTU-IoT-Malware-Capture-1-1,external,100000,100000,0,0,0,0,4,996,"{'malicious': 539473, 'benign': 469275}",0,False
+IoT23,CTU-IoT-Malware-Capture-21-1,external,50277,50277,77,0,0,0,470,32,"{'benign': 3272, 'malicious': 14}",0,True
+IoT23,CTU-Honeypot-Capture-4-1,external,21664,21664,64,4,4,0,212,0,{'benign': 452},0,True
+IoT23,CTU-Honeypot-Capture-5-1,external,100000,99995,95,998,998,0,1,0,{'benign': 1374},0,False
+IoT23,CTU-Honeypot-Capture-7-1,external,8276,7682,82,31,31,0,45,0,{'benign': 130},0,True
+IoT23,CTU-IoT-Malware-Capture-3-1,external,100000,100000,0,460,0,460,21,519,"{'malicious': 151567, 'benign': 4536}",0,False

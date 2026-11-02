@@ -1,0 +1,28 @@
+{
+  "features": [
+    "length_mean",
+    "length_std",
+    "length_min",
+    "length_max",
+    "length_q25",
+    "length_q75",
+    "iat_mean",
+    "iat_std",
+    "iat_max",
+    "duration",
+    "tcp_fraction",
+    "udp_fraction",
+    "icmp_fraction",
+    "arp_fraction",
+    "ipv6_fraction",
+    "syn_fraction",
+    "ack_fraction",
+    "rst_fraction",
+    "fin_fraction",
+    "negative_iat_fraction"
+  ],
+  "window_packets": 100,
+  "extractor_sha256": "95b748018ccb6de3898732d908b538fe89ae61531397ef93dc0db1272f2b7112",
+  "protocol_sha256": "29732547b3769b8139455909e06eb9c8b5b4e730b4c710bbb4903a93b61345d6",
+  "rows": 15448
+}

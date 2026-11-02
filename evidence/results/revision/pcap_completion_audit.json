@@ -1,0 +1,7 @@
+{
+  "prefix_files": 20,
+  "verified_files": 20,
+  "external_label_files": 6,
+  "unresolved": [],
+  "notes": "Earlier timeout/404 logs preserved. Corrected official paths and renewed per-file sessions resolved the original subset. Somfy has provider index rather than a missing README; acquisition helper now handles this layout. Additional3-1 is the disclosed eligibility amendment."
+}

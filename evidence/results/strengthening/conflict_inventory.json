@@ -1,0 +1,30 @@
+{
+  "1000": {
+    "sampled_rows_before_dedup": 309000,
+    "reconstructed_unique_vectors": 283073,
+    "old_retained_rows": 283073,
+    "old_unique_vectors_canonical": 283073,
+    "conflict_hashes": 2,
+    "old_rows_excluded": 2,
+    "excluded_benign": 2,
+    "excluded_attack": 0,
+    "old_vectors_missing_from_reconstruction": 0,
+    "reconstructed_vectors_missing_from_old": 0,
+    "old_hash_recomputed_mismatch": 282776
+  },
+  "5000": {
+    "sampled_rows_before_dedup": 1535578,
+    "reconstructed_unique_vectors": 1251524,
+    "old_retained_rows": 1254712,
+    "old_unique_vectors_canonical": 1251524,
+    "conflict_hashes": 35,
+    "old_rows_excluded": 35,
+    "excluded_benign": 32,
+    "excluded_attack": 3,
+    "old_vectors_missing_from_reconstruction": 0,
+    "reconstructed_vectors_missing_from_old": 0,
+    "old_hash_recomputed_mismatch": 1254712
+  },
+  "time_utc": "2026-10-31T21:38:08.188960+00:00",
+  "protocol_sha256": "550018112d4d56d4e9c9007cfbdf986993bc330e1400c359697560a45e3e8a18"
+}

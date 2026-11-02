@@ -1,0 +1,28 @@
+{
+  "lr": {
+    "candidate": 3,
+    "kind": "lr",
+    "feature_set": "full",
+    "features": 38,
+    "parameter": 1.0,
+    "class_weight": "None",
+    "source_threshold": 0.6722109412143504,
+    "validation_auroc": 0.9887155555555555,
+    "validation_recall": 0.963,
+    "validation_fpr": 0.05,
+    "seconds": 6.375
+  },
+  "rf": {
+    "candidate": 8,
+    "kind": "rf",
+    "feature_set": "full",
+    "features": 38,
+    "parameter": 20,
+    "class_weight": "balanced",
+    "source_threshold": 0.2064777257819643,
+    "validation_auroc": 0.9920358333333333,
+    "validation_recall": 0.9728333333333333,
+    "validation_fpr": 0.05,
+    "seconds": 1.0
+  }
+}

@@ -1,0 +1,5 @@
+capture,packets,valid_packets,complete_windows,eligible,benign,attack,excluded_unknown,excluded_mixed,incomplete_packets,reached_eof,connection_labels,bad_connection_rows
+CTU-IoT-Malware-Capture-20-1,50156,50156,501,0,0,0,490,11,56,True,"{'benign': 3193, 'malicious': 16}",0
+CTU-IoT-Malware-Capture-42-1,24484,24484,244,196,196,0,36,12,84,False,"{'malicious': 6, 'benign': 4420}",0
+CTU-IoT-Malware-Capture-60-1,100000,100000,1000,973,5,968,23,4,0,False,"{'benign': 2476, 'malicious': 3578552}",0
+CTU-IoT-Malware-Capture-8-1,23623,23623,236,0,0,0,236,0,23,True,"{'benign': 2181, 'malicious': 8222}",0

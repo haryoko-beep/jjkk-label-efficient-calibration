@@ -1,0 +1,11 @@
+{
+  "evaluations": 814,
+  "source_grid_fits": 24,
+  "calibration_fits": 120,
+  "retraining_fits": 120,
+  "intercept_fits": 30,
+  "budget_conditions": 30,
+  "fivepct_joint_success_rows": 34,
+  "test_status": "previously_inspected_exploratory_reuse",
+  "label_accounting_pass": true
+}

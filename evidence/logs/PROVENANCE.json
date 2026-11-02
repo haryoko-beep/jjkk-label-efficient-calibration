@@ -1,0 +1,32 @@
+[
+  {
+    "file": "full_training.jsonl",
+    "events": 921,
+    "original_sha256": "b3b5aea8ba7ab85824d37641d1a957b5dda280ea1e1cb662d2f7d2eb990e6e73",
+    "publication": "scalar event fields only; array-valued query labels, IDs, weights and histories omitted"
+  },
+  {
+    "file": "tuning_training.jsonl",
+    "events": 1258,
+    "original_sha256": "f81caa151182fe59a637c56cb3893bbf992cab547a049c3503387b160d5dc037",
+    "publication": "scalar event fields only; array-valued query labels, IDs, weights and histories omitted"
+  },
+  {
+    "file": "revision_factorial.jsonl",
+    "events": 295,
+    "original_sha256": "a25afaaca108d0fbf4a5da3f1f74dd3e271961f6d0ec8b55aebebb0c97ae90ef",
+    "publication": "scalar event fields only; array-valued query labels, IDs, weights and histories omitted"
+  },
+  {
+    "file": "common_training.jsonl",
+    "events": 20,
+    "original_sha256": "89b2a3d9af39f26ec2947e30ed04030602ec5aa2f8b82bb1a446e1c243ea3603",
+    "publication": "scalar event fields only; array-valued query labels, IDs, weights and histories omitted"
+  },
+  {
+    "file": "conflict_sensitivity.jsonl",
+    "events": 181,
+    "original_sha256": "8b7eb5c24aebff6099f790b763ece7a0854ca58c3a4a41500ecf1f06f3a7b571",
+    "publication": "scalar event fields only; array-valued query labels, IDs, weights and histories omitted"
+  }
+]

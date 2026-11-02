@@ -1,0 +1,7 @@
+_hash,_y,_capture
+13104238352299263586,0,CSV/Benign_Final/BenignTraffic.pcap.csv
+10526886308142660067,0,CSV/Benign_Final/BenignTraffic1.pcap.csv
+10526886308142660067,1,CSV/DNS_Spoofing/DNS_Spoofing.pcap.csv
+13104238352299263586,1,CSV/MITM-ArpSpoofing/MITM-ArpSpoofing.pcap.csv
+13104238352299263586,1,CSV/MITM-ArpSpoofing/MITM-ArpSpoofing1.pcap.csv
+13104238352299263586,1,CSV/MITM-ArpSpoofing/MITM-ArpSpoofing1.pcap.csv

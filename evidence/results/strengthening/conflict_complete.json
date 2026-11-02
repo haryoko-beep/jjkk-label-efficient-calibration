@@ -1,0 +1,8 @@
+{
+  "source_refits": 12,
+  "calibration_fits": 144,
+  "evaluations": 312,
+  "paired_rows": 312,
+  "fixed_fit_membership": true,
+  "test_status": "reused exploratory sensitivity"
+}

@@ -1,0 +1,27 @@
+{
+  "feature_definition_sha256": "95b748018ccb6de3898732d908b538fe89ae61531397ef93dc0db1272f2b7112",
+  "driver_sha256": "7933e87c620acef7f75b4e5f5b2357b096f528cf3e6506c002ccc671f0effa78",
+  "features": [
+    "length_mean",
+    "length_std",
+    "length_min",
+    "length_max",
+    "length_q25",
+    "length_q75",
+    "iat_mean",
+    "iat_std",
+    "iat_max",
+    "duration",
+    "tcp_fraction",
+    "udp_fraction",
+    "icmp_fraction",
+    "arp_fraction",
+    "ipv6_fraction",
+    "syn_fraction",
+    "ack_fraction",
+    "rst_fraction",
+    "fin_fraction",
+    "negative_iat_fraction"
+  ],
+  "protocol_sha256": "550018112d4d56d4e9c9007cfbdf986993bc330e1400c359697560a45e3e8a18"
+}

@@ -1,0 +1,18 @@
+{
+  "conflict_evaluations": 312,
+  "external_evaluations": 366,
+  "expanded_joint_success": {
+    "('lr', 'cal_diversity')": 0,
+    "('lr', 'cal_random')": 0,
+    "('lr', 'mix_diversity')": 0,
+    "('lr', 'mix_random')": 0,
+    "('lr', 'target_diversity')": 0,
+    "('lr', 'target_random')": 0,
+    "('rf', 'cal_diversity')": 0,
+    "('rf', 'cal_random')": 0,
+    "('rf', 'mix_diversity')": 0,
+    "('rf', 'mix_random')": 0,
+    "('rf', 'target_diversity')": 0,
+    "('rf', 'target_random')": 0
+  }
+}

@@ -1,0 +1,10 @@
+0,1,2,3,4
+Logistic regression,No coverage floor,0.0239,+0.0000,"[+0.0000, +0.0000]"
+Logistic regression,No entropy,0.0243,-0.0004,"[-0.0010, +0.0006]"
+Logistic regression,No weights,0.0257,-0.0018,"[-0.0052, +0.0027]"
+Random forest,No coverage floor,0.0238,-0.0000,"[-0.0000, +0.0000]"
+Random forest,No entropy,0.0234,+0.0004,"[-0.0007, +0.0009]"
+Random forest,No weights,0.0237,+0.0001,"[-0.0002, +0.0002]"
+Histogram boosting,No coverage floor,0.0227,+0.0000,"[+0.0000, +0.0000]"
+Histogram boosting,No entropy,0.0230,-0.0003,"[-0.0017, +0.0003]"
+Histogram boosting,No weights,0.0230,-0.0003,"[-0.0006, +0.0005]"

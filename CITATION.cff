@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this software alongside the associated manuscript."
+title: "Limits of Label Efficient Calibration in Cross Dataset IoT Intrusion Detection"
+type: software
+version: 1.0.0
+authors:
+  - name: "Haryoko"
+  - name: "Windha Mega Pradnya Dhuhita"
+  - name: "Agus Purwanto"
+  - name: "Nuraini"
+  - name: "Ikmah"
+  - name: "Lukman"
+keywords:
+  - intrusion detection
+  - calibration
+  - domain shift
+  - label efficiency
+repository-code: "https://github.com/haryoko-beep/jjkk-label-efficient-calibration"
+url: "https://github.com/haryoko-beep/jjkk-label-efficient-calibration"
