@@ -1,0 +1,47 @@
+{
+  "title": "Limits of Label Efficient Calibration in Cross Dataset IoT Intrusion Detection ? Experiment Code and Aggregate Evidence",
+  "upload_type": "software",
+  "description": "Experiment scripts, fixed protocols, acquisition manifest, aggregate metrics, and scalar training event summaries supporting the JJKK manuscript. The original 100-label calibrators yield near-unit false-positive rates. Common-feature mixed retraining succeeds on the evaluated CIC subset but not consistently on the expanded IoT-23 cohort. Raw datasets, prediction arrays, and fitted caches are excluded. The historical test reuse and capture-dependent scope are documented in the protocols.",
+  "creators": [
+    {
+      "name": "Haryoko",
+      "affiliation": "Universitas Amikom Yogyakarta, Yogyakarta, Indonesia"
+    },
+    {
+      "name": "Windha Mega Pradnya Dhuhita",
+      "affiliation": "Universitas Amikom Yogyakarta, Yogyakarta, Indonesia"
+    },
+    {
+      "name": "Agus Purwanto",
+      "affiliation": "Universitas Amikom Yogyakarta, Yogyakarta, Indonesia"
+    },
+    {
+      "name": "Nuraini",
+      "affiliation": "Universitas Amikom Yogyakarta, Yogyakarta, Indonesia"
+    },
+    {
+      "name": "Ikmah",
+      "affiliation": "Universitas Amikom Yogyakarta, Yogyakarta, Indonesia"
+    },
+    {
+      "name": "Lukman",
+      "affiliation": "Universitas Amikom Yogyakarta, Yogyakarta, Indonesia"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "intrusion detection",
+    "IoT",
+    "calibration",
+    "domain shift",
+    "label efficiency"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/haryoko-beep/jjkk-label-efficient-calibration",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
